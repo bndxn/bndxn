@@ -1,5 +1,3 @@
-### About me
-
 - Currently studing [MSc Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) at UCL 
 - Learning ML techniques, web development, database design, functional programming, algorithms and architecture
 - Six years of finance experience: four years in a consulting and two in a finance leadership role 
