@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+- Currently studing (MSc Computer Science)[https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc] at UCL 
+- Learning ML techniques, web development, database design, functional programming, algorithms and architecture
+- Six years of finance experience: four years in a consulting and two in a finance leadership role 
+- Interested in using computational approaches to address some of society's biggest problems
+- Please email me at uk.bendixon@gmail.com if you'd like to get in touch!
 
 <!--
 **bndxn/bndxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
