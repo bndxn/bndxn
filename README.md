@@ -1,5 +1,5 @@
 - Studing [MSc Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) at UCL
-- Six years of finance experience: four years in a consulting and two in a finance leadership role 
+- Six years of finance experience
 - Interested in ML engineering
 - uk.bendixon@gmail.com
 <!--
