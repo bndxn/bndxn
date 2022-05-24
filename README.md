@@ -1,5 +1,4 @@
-- Currently studing [MSc Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) at UCL
-- Learning: ML techniques, web development, database design, functional programming, algorithms, and architecture
+- Studing [MSc Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) at UCL
 - Six years of finance experience: four years in a consulting and two in a finance leadership role 
 - Interested in using computational approaches to address some of society's biggest problems
 - Please email me at uk.bendixon@gmail.com if you'd like to get in touch
