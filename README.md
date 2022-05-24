@@ -1,5 +1,5 @@
 - [MSc Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) at UCL (2021-22)
-- Six years of finance experience (2015-2021)
+- Six years of finance experience (2015-21)
 - Interested in ML engineering
 - uk.bendixon@gmail.com
 <!--
