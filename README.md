@@ -1,7 +1,5 @@
-Data scientist at the BBC. 
+Data scientist at Multiverse. 
 
-Applying the latest techniques in machine learning to improve user experience and increase engagement with BBC content. 
-
-Previously in consulting and finance leadership, distinction in MSc [Computer Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc) from UCL. 
+I’m interested in applying machine learning to real problems, with a focus on NLP and ML engineering.  
 
 uk.bendixon@gmail.com
